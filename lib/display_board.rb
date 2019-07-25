@@ -5,5 +5,4 @@ def display_board(array)
   array.each do |element|
     puts element
   end
-  end
 end
