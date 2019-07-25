@@ -2,9 +2,9 @@
 # out the current state.
 
 def display_board(cell)
-  puts '#{cell[0]}|#{cel[1]}|#{cel[2]}'
+  puts '#{cell[0]}|#{cell[1]}|#{cell[2]}'
   puts '-----------'
-  puts '#{cell[3]}|#{cel[4]}|#{cel[5]}'
+  puts '#{cell[3]}|#{cell[4]}|#{cell[5]}'
   puts '-----------'
-  puts '#{cell[6]}|#{cel[7]}|#{cel[8]}'
+  puts '#{cell[6]}|#{cell[7]}|#{cell[8]}'
 end
